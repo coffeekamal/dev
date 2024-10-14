@@ -5,7 +5,7 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "..."
 date_format: "%B %d, %Y"
-
+ 
 # Add a search button to the navbar
 post_search: true
 
